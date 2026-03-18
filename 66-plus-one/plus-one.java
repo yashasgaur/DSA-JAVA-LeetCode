@@ -9,7 +9,8 @@ class Solution {
                 return digits;
             }
 
-            digits[i] = 0;
+            else if(digits[i] == 9)
+                digits[i] = 0;
         }
 
         int[] new_number = new int[n + 1];
