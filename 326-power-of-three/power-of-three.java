@@ -3,6 +3,9 @@ class Solution {
         if(n <= 0)
             return false;
 
-        return 1162261467 % n == 0;
+        while(n % 3 == 0)
+            n /= 3;
+
+        return n == 1;
     }
 }
