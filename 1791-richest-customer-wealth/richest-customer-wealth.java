@@ -7,6 +7,9 @@ class Solution {
             for(int col = 0; col < accounts[row].length; col++){
                 curr_wealth += accounts[row][col];
             }
+
+            //max_wealth = Math.max(max_wealth, curr_wealth); //increases tc
+
             if(max_wealth < curr_wealth)
                 max_wealth = curr_wealth;
         }
