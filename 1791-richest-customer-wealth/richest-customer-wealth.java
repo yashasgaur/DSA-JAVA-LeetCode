@@ -2,10 +2,10 @@ class Solution {
     public int maximumWealth(int[][] accounts) {
         int max_wealth = 0;
 
-        for(int row = 0; row < accounts.length; row++){
+        for(int person = 0; person < accounts.length; person++){
             int curr_wealth = 0;
-            for(int col = 0; col < accounts[row].length; col++){
-                curr_wealth += accounts[row][col];
+            for(int account = 0; account < accounts[person].length; account++){
+                curr_wealth += accounts[person][account];
             }
 
             //max_wealth = Math.max(max_wealth, curr_wealth); //increases tc
