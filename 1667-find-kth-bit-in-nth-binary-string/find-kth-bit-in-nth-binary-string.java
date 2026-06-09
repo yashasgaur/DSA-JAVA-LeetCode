@@ -1,7 +1,6 @@
 class Solution {
     public char findKthBit(int n, int k) {
-        if(n == 1) return '0';
-        return rec(n).charAt(k- 1);
+        return rec(n).charAt(k - 1);
     }
 
     static String rec(int x){
