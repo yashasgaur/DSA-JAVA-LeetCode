@@ -4,17 +4,15 @@ class Solution {
         int curr_profit = 0;
         int max_profit = 0;
 
-        for(int price : prices){
-            if(price < buy_price){
-                buy_price = price;
+        for(int i = 0; i < prices.length; i++){
+            if(prices[i] < buy_price){
+                buy_price = prices[i];
             }
-
-            else if(price > buy_price){
-                curr_profit = price - buy_price;
-                max_profit = Math.max(max_profit, curr_profit);
+            else{
+                curr_profit = prices[i] - buy_price;
+                max_profit = Math.max(curr_profit, max_profit);
             }
         }
-
         return max_profit;
     }
 }
