@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
