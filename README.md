@@ -48,5 +48,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0197-rising-temperature) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
