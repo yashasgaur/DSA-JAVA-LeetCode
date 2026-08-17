@@ -33,4 +33,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
