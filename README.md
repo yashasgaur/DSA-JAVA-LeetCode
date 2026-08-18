@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
