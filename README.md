@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Database
 |  |
 | ------- |
