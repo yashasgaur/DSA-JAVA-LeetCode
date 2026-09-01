@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2470-removing-stars-from-a-string](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -114,5 +116,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
