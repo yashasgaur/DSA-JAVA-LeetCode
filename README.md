@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0197-rising-temperature](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0197-rising-temperature) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## Union-Find
 |  |
 | ------- |
