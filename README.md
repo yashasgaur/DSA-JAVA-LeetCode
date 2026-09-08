@@ -119,4 +119,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Math
+|  |
+| ------- |
+| [4245-count-commas-in-range](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/4245-count-commas-in-range) |
 <!---LeetCode Topics End-->
