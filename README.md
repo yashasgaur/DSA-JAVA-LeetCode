@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0560-subarray-sum-equals-k](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0948-sort-an-array](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0948-sort-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0128-longest-consecutive-sequence](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Quickselect
 |  |
 | ------- |
