@@ -125,5 +125,10 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [4245-count-commas-in-range](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/4245-count-commas-in-range) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
