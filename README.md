@@ -131,11 +131,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
