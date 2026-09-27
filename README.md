@@ -1,152 +1,27 @@
-A collection of LeetCode questions to ace the coding interviews! - Created using [LeetHub 2.0 for Firefox](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0011-container-with-most-water) |
-| [0015-3sum](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0015-3sum) |
-| [0075-sort-colors](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0075-sort-colors) |
-| [0128-longest-consecutive-sequence](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0347-top-k-frequent-elements](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0347-top-k-frequent-elements) |
-| [0560-subarray-sum-equals-k](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
-| [0643-maximum-average-subarray-i](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
-| [0948-sort-an-array](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0948-sort-an-array) |
-| [3242-count-elements-with-maximum-frequency](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
-| [3347-distribute-elements-into-two-arrays-i](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
-## Hash Table
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0128-longest-consecutive-sequence](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
-| [0141-linked-list-cycle](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0141-linked-list-cycle) |
-| [0347-top-k-frequent-elements](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0347-top-k-frequent-elements) |
-| [0560-subarray-sum-equals-k](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
-| [3242-count-elements-with-maximum-frequency](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0347-top-k-frequent-elements) |
-| [0948-sort-an-array](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0948-sort-an-array) |
-## Sorting
-|  |
-| ------- |
-| [0015-3sum](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0015-3sum) |
-| [0075-sort-colors](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0075-sort-colors) |
-| [0347-top-k-frequent-elements](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0347-top-k-frequent-elements) |
-| [0948-sort-an-array](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0948-sort-an-array) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0347-top-k-frequent-elements) |
-| [0948-sort-an-array](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0948-sort-an-array) |
-## Bucket Sort
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0347-top-k-frequent-elements) |
-| [0948-sort-an-array](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0948-sort-an-array) |
-## Counting
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0347-top-k-frequent-elements) |
-| [3242-count-elements-with-maximum-frequency](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
-## Quickselect
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0347-top-k-frequent-elements) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
-| [2470-removing-stars-from-a-string](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/2470-removing-stars-from-a-string) |
-## Stack
-|  |
-| ------- |
-| [2470-removing-stars-from-a-string](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/2470-removing-stars-from-a-string) |
-## Simulation
-|  |
-| ------- |
-| [2470-removing-stars-from-a-string](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/2470-removing-stars-from-a-string) |
-| [3347-distribute-elements-into-two-arrays-i](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
-## Database
-|  |
-| ------- |
-| [0197-rising-temperature](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0197-rising-temperature) |
-| [0577-employee-bonus](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0577-employee-bonus) |
-| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
-| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
-## Union-Find
-|  |
-| ------- |
-| [0128-longest-consecutive-sequence](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
-## Prefix Sum
-|  |
-| ------- |
-| [0560-subarray-sum-equals-k](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
-## Two Pointers
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0011-container-with-most-water) |
-| [0015-3sum](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0015-3sum) |
-| [0075-sort-colors](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0075-sort-colors) |
-| [0141-linked-list-cycle](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0141-linked-list-cycle) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0908-middle-of-the-linked-list](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0908-middle-of-the-linked-list) |
-## Binary Search
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-## Greedy
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0011-container-with-most-water) |
-## Quicksort
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0075-sort-colors) |
-## Bubble Sort
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0075-sort-colors) |
-## Merge Sort
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0948-sort-an-array) |
-## Radix Sort
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0948-sort-an-array) |
-## Counting Sort
-|  |
-| ------- |
-| [0948-sort-an-array](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0948-sort-an-array) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0643-maximum-average-subarray-i](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
-## Math
-|  |
-| ------- |
-| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
-| [4245-count-commas-in-range](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/4245-count-commas-in-range) |
-## Linked List
-|  |
-| ------- |
-| [0141-linked-list-cycle](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0141-linked-list-cycle) |
-| [0203-remove-linked-list-elements](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0203-remove-linked-list-elements) |
-| [0206-reverse-linked-list](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0206-reverse-linked-list) |
-| [0237-delete-node-in-a-linked-list](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
-| [0908-middle-of-the-linked-list](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0908-middle-of-the-linked-list) |
-| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
-## Recursion
-|  |
-| ------- |
-| [0203-remove-linked-list-elements](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0203-remove-linked-list-elements) |
-| [0206-reverse-linked-list](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0206-reverse-linked-list) |
-## Floyd's Cycle Finding Algorithm
-|  |
-| ------- |
-| [0141-linked-list-cycle](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0141-linked-list-cycle) |
-<!---LeetCode Topics End-->
+# DSA in Java
+
+My structured practice of Data Structures & Algorithms
+for software engineering interviews.
+
+## Topics
+
+- Arrays
+- Strings
+- HashMaps & Sets
+- Binary Search
+- Sorting
+- Recursion
+- Linked Lists
+- Dynamic Programming
+
+## Progress
+
+80+ problems solved
+
+## Approach
+
+Each solution focuses on:
+- Correctness
+- Time complexity
+- Space complexity
+- Edge cases
