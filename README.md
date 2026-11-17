@@ -40,4 +40,8 @@ Each solution focuses on:
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/2551-apply-operations-to-an-array) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
