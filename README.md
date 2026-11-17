@@ -1,47 +1,42 @@
-# DSA in Java
+# Data Structures & Algorithms
 
-My structured practice of Data Structures & Algorithms
-for software engineering interviews.
-
-## Topics
-
-- Arrays
-- Strings
-- HashMaps & Sets
-- Binary Search
-- Sorting
-- Recursion
-- Linked Lists
-- Dynamic Programming
+Solutions to LeetCode problems implemented primarily in Java, with SQL solutions for database problems.
 
 ## Progress
 
-80+ problems solved
+| Metric | Count |
+| --- | ---: |
+| Problems solved | 79 |
+| Java solutions | 68 |
+| SQL solutions | 13 |
 
-## Approach
+## Repository structure
 
-Each solution focuses on:
-- Correctness
-- Time complexity
-- Space complexity
-- Edge cases
+Each problem has its own folder:
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2551-apply-operations-to-an-array](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/2551-apply-operations-to-an-array) |
-## Two Pointers
-|  |
-| ------- |
-| [2551-apply-operations-to-an-array](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/2551-apply-operations-to-an-array) |
-## Simulation
-|  |
-| ------- |
-| [2551-apply-operations-to-an-array](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/2551-apply-operations-to-an-array) |
-## Database
-|  |
-| ------- |
-| [0584-find-customer-referee](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0584-find-customer-referee) |
-<!---LeetCode Topics End-->
+```text
+<4-digit-question-number>-<problem-name>/
+├── README.md
+└── solution file
+```
+
+Question numbers are zero-padded to four digits so the folders remain naturally sorted:
+
+```text
+0001-two-sum
+0011-container-with-most-water
+0075-sort-colors
+4275-traffic-signal-color
+```
+
+## Topics practiced
+
+- Arrays and strings
+- Hash maps and sets
+- Two pointers and sliding window
+- Sorting and binary search
+- Linked lists and trees
+- Dynamic programming
+- SQL and relational queries
+
+Each solution includes the original problem statement and focuses on correctness, complexity, and edge cases.
