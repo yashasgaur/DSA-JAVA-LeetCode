@@ -16,8 +16,8 @@ Each problem has its own folder:
 
 ```text
 <4-digit-question-number>-<problem-name>/
-├── README.md
-└── solution file
+âââ README.md
+âââ solution file
 ```
 
 Question numbers are zero-padded to four digits so the folders remain naturally sorted:
@@ -40,3 +40,18 @@ Question numbers are zero-padded to four digits so the folders remain naturally 
 - SQL and relational queries
 
 Each solution includes the original problem statement and focuses on correctness, complexity, and edge cases.
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+<!---LeetCode Topics End-->
