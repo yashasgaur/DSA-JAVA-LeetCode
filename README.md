@@ -16,8 +16,8 @@ Each problem has its own folder:
 
 ```text
 <4-digit-question-number>-<problem-name>/
-âââ README.md
-âââ solution file
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ README.md
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ solution file
 ```
 
 Question numbers are zero-padded to four digits so the folders remain naturally sorted:
