@@ -7,7 +7,7 @@ Solutions to LeetCode problems implemented primarily in Java, with SQL solutions
 | Metric | Count |
 | --- | ---: |
 | Problems solved | 79 |
-| Java solutions | 68 |
+| Java solutions | 69 |
 | SQL solutions | 13 |
 
 ## Repository structure
