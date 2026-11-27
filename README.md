@@ -28,6 +28,7 @@
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0595-big-countries) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
