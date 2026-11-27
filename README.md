@@ -25,4 +25,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0015-3sum) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
