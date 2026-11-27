@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Sliding Window
@@ -18,5 +19,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/yashasgaur/DSA-JAVA-LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
